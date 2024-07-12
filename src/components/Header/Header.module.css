@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  padding: 30px;
+  background-color: #000000;
+  display: flex;
+}
+
+.stats {
+  display: flex;
+  gap: 45px;
+}
